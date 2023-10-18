@@ -15,4 +15,5 @@ information security
 Elements of security 
 various information security laws and regulation
 
-
+~# 30 Days of learning ethical hacking
+DAY 2📍
